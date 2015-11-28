@@ -1,13 +1,9 @@
 *{
   font-family: "Comic Sans MS", cursive, sans-serif;
+  text-align: center;
 }
 
 h1{
-  text-align: center;
   margin: 2.5% auto;
   margin-bottom: 10px;
-}
-
-form *{
-  text-align: center;
 }
